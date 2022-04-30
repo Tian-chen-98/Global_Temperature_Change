@@ -4,15 +4,17 @@ This project is brought to you by Group V. This website hosts graphs and maps th
 
 ### Table of Contents
 
-1. [Global Map](#Global Map)
-2. [Comparative Changes (Countries)](#Comparative Changes (Countries))
-3. [Comparative Changes (Cities or States)](#Comparative Changes (Cities or States))
+- [Changes in Global Temperature](#changes-in-global-temperature)
+  - [Table of Contents](#table-of-contents)
+  - [Global Map <a name="Global Map"></a>](#global-map-)
+  - [Comparative Changes (Countries) <a name="Comparative Changes (Countries)"></a>](#comparative-changes-countries-)
+  - [Comparative Changes (Cities or States) <a name="Comparative Changes (Cities or States)"></a>](#comparative-changes-cities-or-states-)
 
 ### Global Map <a name="Global Map"></a>
 
 This part contains two global maps that describe the changes in temperatures of all countries in Celcius unit.
 
-<iframe src="world_map.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="climate_change_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
 Above is an interactive map that plots the differences in average temperatures of two period: 1743 to 1975 and 1975 to 2013.
 

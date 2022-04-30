@@ -6,7 +6,7 @@ This project is brought to you by Group V. This website hosts graphs and maps th
 
 1. [Global Map](#Global Map)
 2. [Comparative Changes (Country)](#Comparative Changes (Country))
-3. [Comparative Changes (Cities)](#Comparative Changes (Cities))
+3. [Comparative Changes (Cities or State)](#Comparative Changes (Cities or States))
 
 ### Global Map <a name="Global Map"></a>
 
@@ -25,3 +25,7 @@ As the map above shows, average global temperatures after 1975 are much higher i
 The GIF above animatedly shows the changes in average temperatures. The legend in the bottom represents the differences of average temperature in one year compared to that of last year.
 
 As it shows, temperatures of each country increase annually; in some countries, such as Canada, the extent of increasing temperatures are especially significant.
+
+### Comparative Changes (Country) <a name="Comparative Changes (Country)"></a>
+
+### Comparative Changes (Cities or State) <a name="Comparative Changes (Cities or State)"></a>

@@ -5,8 +5,8 @@ This project is brought to you by Group V. This website hosts graphs and maps th
 ### Table of Contents
 
 1. [Global Map](#Global Map)
-2. [Comparative Changes (Country)](#Comparative Changes (Country))
-3. [Comparative Changes (Cities or State)](#Comparative Changes (Cities or States))
+2. [Comparative Changes (Countries)](#Comparative Changes (Countries))
+3. [Comparative Changes (Cities or States)](#Comparative Changes (Cities or States))
 
 ### Global Map <a name="Global Map"></a>
 
@@ -26,6 +26,6 @@ The GIF above animatedly shows the changes in average temperatures. The legend i
 
 As it shows, temperatures of each country increase annually; in some countries, such as Canada, the extent of increasing temperatures are especially significant.
 
-### Comparative Changes (Country) <a name="Comparative Changes (Country)"></a>
+### Comparative Changes (Countries) <a name="Comparative Changes (Countries)"></a>
 
-### Comparative Changes (Cities or State) <a name="Comparative Changes (Cities or State)"></a>
+### Comparative Changes (Cities or States) <a name="Comparative Changes (Cities or States)"></a>

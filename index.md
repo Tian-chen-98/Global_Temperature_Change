@@ -4,11 +4,9 @@ This project is brought to you by Group V. This website hosts graphs and maps th
 
 ### Table of Contents
 
-- [Changes in Global Temperature](#changes-in-global-temperature)
-  - [Table of Contents](#table-of-contents)
-  - [Global Map <a name="Global Map"></a>](#global-map-)
-  - [Comparative Changes (Countries) <a name="Comparative Changes (Countries)"></a>](#comparative-changes-countries-)
-  - [Comparative Changes (Cities or States) <a name="Comparative Changes (Cities or States)"></a>](#comparative-changes-cities-or-states-)
+- [Global Map <a name="Global Map"></a>](#global-map-)
+- [Comparative Changes (Countries) <a name="Comparative Changes (Countries)"></a>](#comparative-changes-countries-)
+- [Comparative Changes (Cities or States) <a name="Comparative Changes (Cities or States)"></a>](#comparative-changes-cities-or-states-)
 
 ### Global Map <a name="Global Map"></a>
 

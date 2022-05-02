@@ -1,14 +1,18 @@
 # Changes in Global Temperature
 
-This project is brought to you by Group V. This website hosts graphs and maps that visually represent the changes in global temperature from 1743 to 2013. We seek to demonstrate the extent of global warming and illustrate the seriousness of that problem.
-
 ### Table of Contents
 
 - [Changes in Global Temperature](#changes-in-global-temperature)
     - [Table of Contents](#table-of-contents)
+    - [Introduction](#introduction)
     - [Global Map <a name="Global Map"></a>](#global-map-)
     - [Comparative Changes (Countries) <a name="Comparative Changes (Countries)"></a>](#comparative-changes-countries-)
     - [Comparative Changes (Cities or States) <a name="Comparative Changes (Cities or States)"></a>](#comparative-changes-cities-or-states-)
+    - [Citation](#citation)
+
+### Introduction
+
+This project is brought to you by Group V. This website hosts graphs and maps that visually represent the changes in global temperature from 1743 to 2013. We seek to demonstrate the extent of global warming and illustrate the seriousness of that problem.
 
 ### Global Map <a name="Global Map"></a>
 
@@ -64,4 +68,11 @@ The following two diagrams are showing eight cities in China and eight states in
 
 <img src="us_8_cities.jpg">
 
-Generally speaking, both cities in China and States in the US have an increasing trend of average temperature from 1913 to 2013. We selected representative cities that located in different direction of each country (South, North, center, near the ocean, etc) .
+Generally speaking, both cities in China and States in the US have an increasing trend of average temperature from 1913 to 2013. We selected representative cities that located in different direction of each country (South, North, center, near the ocean, etc).
+
+### Citation
+
+Data used in this project are from Kaggle. Two Kaggle datasets have been used:
+
+- [Map of temperatures and analysis of global warming](https://www.kaggle.com/code/amelinvladislav/map-of-temperatures-and-analysis-of-global-warming/data?select=GlobalLandTemperaturesByState.csv). This dataset is created by Vladislav Amelin on November 11, 2016.
+- [Trends in global CO2 emissions](https://www.kaggle.com/code/fehmifratpolat/trends-in-global-co2-emissions/data). This dataset is created by Firat Polat on September 26, 2020.

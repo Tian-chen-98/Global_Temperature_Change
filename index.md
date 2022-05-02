@@ -14,7 +14,7 @@ This project is brought to you by Group V. This website hosts graphs and maps th
 
 This part contains two global maps that describe the changes in temperatures of all countries in Celcius unit.
 
-<iframe src="climate_change_map.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="climate_change_map.html" height="600px" width="100%"></iframe>
 
 Above is an interactive map that plots the differences in average temperatures of two period: 1743 to 1975 and 1975 to 2013.
 
@@ -22,7 +22,7 @@ We choose 1975 to be the threshhold because the idea of global warming was first
 
 As the map above shows, average global temperatures after 1975 are much higher in all countries than the average temperatures before 1975.
 
-<iframe src="gganim.gif" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="gganim.gif" height="600px" width="100%"></iframe>
 
 The GIF above animatedly shows the changes in average temperatures. The legend in the bottom represents the differences of average temperature in one year compared to that of last year.
 
@@ -32,9 +32,9 @@ As it shows, temperatures of each country increase annually; in some countries, 
 
 The following two plots are showing the Average temperature change in different months within cities of two different countries from year 1903~2003 (China & the U.S.).
 
-<img src="china_temp.jpg" style="border:none;"/>
+<img src="china_temp.jpg"/>
 
-<img src="us_temp.jpg" style="border:none;">
+<img src="us_temp.jpg">
 
 For average temperature in 1903 in China, from June to August, the average temperature are the highest amoung other months throughout the year, and January and December got the lowest average temperaturse.
 
@@ -44,23 +44,23 @@ For average temperature in 1903 in the US, June and July got the highest average
 
 The following two plots are showing the average temperatures from year 1983 to 2013 in China and the U.S.
 
-<img src="china_temp_change.jpg" style="border:none;">
+<img src="china_temp_change.jpg">
 
-<img src="us_temp_change.jpg" style="border:none;">
+<img src="us_temp_change.jpg">
 
 The average temperature plots of two countries both have an increasing trend from year 1984 to 2013 and reaches their perspective maximum average temperature at 2013: around 15 degrees in China and 16.7 degress in the U.S.
 
 The following two boxplots are showing the average temperatures of the two countries (China and the U.S.) in forty years from 1963 to 2003. Changes are not significant.
 
-<img src="china_box_plot.jpg" style="border:none;">
+<img src="china_box_plot.jpg">
 
-<img src="us_boxplot.jpg" style="border:none;">
+<img src="us_boxplot.jpg">
 
 The following two diagrams are showing eight cities in China and eight states in the U.S. We selected eight representative cities/states based on their unique locations to each perspective country.
 
-<img src="china_8_cities.jpg" style="border:none;">
+<img src="china_8_cities.jpg">
 
-<img src="us_8_cities.jpg" style="border:none;">
+<img src="us_8_cities.jpg">
 
 Generally speaking, both cities in China and States in the US have an increasing trend of average temperature from 1913 to 2013. We selected representative cities that located in different direction of each country (South, North, center, near the ocean, etc) .
 

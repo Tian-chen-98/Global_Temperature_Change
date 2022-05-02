@@ -1,20 +1,17 @@
-# Changes in Global Temperature
-
 ### Table of Contents
 
-- [Changes in Global Temperature](#changes-in-global-temperature)
-    - [Table of Contents](#table-of-contents)
-    - [Introduction <a name="Introduction"></a>](#introduction-)
-    - [Global Map <a name="Global Map"></a>](#global-map-)
-    - [Country Specific Analyses <a name="Country Specific Analyses"></a>](#country-specific-analyses-)
-    - [Comparative Analyses (Countries) <a name="Comparative Analyses (Countries)"></a>](#comparative-analyses-countries-)
-    - [Comparative Analyses (Cities or States) <a name="Comparative Analyses (Cities or States)"></a>](#comparative-analyses-cities-or-states-)
-    - [Conclusions](#conclusions)
-    - [Citation <a name="Citation"></a>](#citation-)
+- [Table of Contents](#table-of-contents)
+- [Introduction <a name="Introduction"></a>](#introduction-)
+- [Global Map <a name="Global Map"></a>](#global-map-)
+- [Country Specific Analyses <a name="Country Specific Analyses"></a>](#country-specific-analyses-)
+- [Comparative Analyses (Countries) <a name="Comparative Analyses (Countries)"></a>](#comparative-analyses-countries-)
+- [Comparative Analyses (Cities or States) <a name="Comparative Analyses (Cities or States)"></a>](#comparative-analyses-cities-or-states-)
+- [Conclusions](#conclusions)
+- [Citation <a name="Citation"></a>](#citation-)
 
 ### Introduction <a name="Introduction"></a>
 
-This project is brought to you by Group V. This website hosts graphs and maps that visually represent the changes in global temperature from 1743 to 2013. We seek to demonstrate the extent of global warming and illustrate the seriousness of that problem.
+This project is brought to you by Group V. This website hosts graphs and maps that visually represent the changes in global temperature from 1743 to 2013 (time periods for graphs differ respectively). We seek to demonstrate the extent of global warming and illustrate the seriousness of that problem.
 
 ### Global Map <a name="Global Map"></a>
 

@@ -22,7 +22,7 @@ We choose 1975 to be the threshhold because the idea of global warming was first
 
 As the map above shows, average global temperatures after 1975 are much higher in all countries than the average temperatures before 1975.
 
-<iframe src="gganim.gif" height="600px" width="100%"></iframe>
+<iframe src="gganim.gif"></iframe>
 
 The GIF above animatedly shows the changes in average temperatures. The legend in the bottom represents the differences of average temperature in one year compared to that of last year.
 

@@ -14,6 +14,14 @@
 
 This project is brought to you by Group V. This website hosts graphs and maps that visually represent the changes in global temperature from 1743 to 2013 (time periods for graphs differ respectively). We seek to demonstrate the extent of global warming and illustrate the seriousness of that problem.
 
+For an overview of this project, we graphed a violin plot to reflect the average temperature of six continents even though the graph could not reflect the global warming issue.
+
+<iframe src="Vio.html" height="600px" width="100%"></iframe>
+
+It can be seen from the graph that Africa, Oceania, and South America do not have great fluctuations in average temperatures. On the contrary, Asia, Europe, and North America have significant changes in average temperatures.
+
+Therefore, we aim to analyze countries and cities/states in Asia, Europe, and North America, where the effects of global warming may be more outstanding.
+
 ## Global Map <a name="Global Map"></a>
 
 We plotted two global maps that describe the changes in temperatures of all countries in Celcius unit.
@@ -31,14 +39,6 @@ As the map above shows, average global temperatures after 1975 are much higher i
 The GIF above animatedly shows the changes in average temperatures. The legend in the bottom represents the differences of average temperature in one year compared to that of last year.
 
 As it shows, temperatures of each country increase annually; in some countries, such as Canada, the extent of increasing temperatures are especially significant.
-
-We also graphed a violin plot to reflect the average temperature of six continents even though the graph could not reflect the global warming issue.
-
-However, for Africa, Oceania, and South America, we can assume they have the most negligible impact of global warming, or their temperature won't change a lot over seasonally.
-
-On the contrary, Asia, Europe, and North America have various changes in average temperatures. Therefore, we aim to analyze countries in Asia, Europe, and North America in the following analysis.
-
-<iframe src="Vio.html" height="600px" width="100%"></iframe>
 
 ## Country Specific Analyses <a name="Country Specific Analyses"></a>
 

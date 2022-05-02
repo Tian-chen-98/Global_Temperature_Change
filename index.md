@@ -7,7 +7,7 @@
 - [Country Specific Analyses <a name="Country Specific Analyses"></a>](#country-specific-analyses-)
 - [Comparative Analyses (Countries) <a name="Comparative Analyses (Countries)"></a>](#comparative-analyses-countries-)
 - [Comparative Analyses (Cities or States) <a name="Comparative Analyses (Cities or States)"></a>](#comparative-analyses-cities-or-states-)
-- [Finding the Cuase: Carbon Dioxide Emission <a name="Finding the Cuase: Carbon Dioxide Emission"></a>](#finding-the-cuase-carbon-dioxide-emission-)
+- [Finding the Cause: Carbon Dioxide Emission <a name="Finding the Cuase: Carbon Dioxide Emission"></a>](#finding-the-cause-carbon-dioxide-emission-)
 - [Conclusions](#conclusions)
 - [Citation <a name="Citation"></a>](#citation-)
 
@@ -147,7 +147,7 @@ The following two diagrams are showing eight cities in China and eight states in
 
 Generally speaking, both cities in China and States in the US have an increasing trend of average temperature from 1913 to 2013. We selected representative cities that located in different direction of each country (South, North, center, near the ocean, etc).
 
-## Finding the Cuase: Carbon Dioxide Emission <a name="Finding the Cuase: Carbon Dioxide Emission"></a>
+## Finding the Cause: Carbon Dioxide Emission <a name="Finding the Cuase: Carbon Dioxide Emission"></a>
 
 In this part, we would like to investigate the relationship between Carbon Dioxide Emission (CO<sub>2</sub>) and the effects of global warming.
 
@@ -159,7 +159,9 @@ The following are diagrams for changes in annual temperatures and CO<sub>2</sub>
 
 <iframe src="CN_co2.html" height="600px" width="100%"></iframe>
 
-We did not find any obvious relationships between CO<sub>2</sub> emission and changes in temperatures in the USA and Russia. However, we did find that China has an increasing co2 emission with the same direction as the average temperatures.
+We did not find any obvious relationships between CO<sub>2</sub> emission and changes in temperatures in the USA and Russia. However, we did find that China has an increasing co2 emission with the same direction as the average temperatures. 
+
+We infer that at the time of data collection, industrial countries, like the U.S. and Russia, did not contribute to increasing CO<sub>2</sub> emissions because of well-developed industries, but developing and Third World countries might have increasing CO<sub>2</sub> emissions, since their industries were still developing. Validating our inferences will require further work.
 
 ## Conclusions
 

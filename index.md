@@ -7,7 +7,7 @@
 - [Country Specific Analyses <a name="Country Specific Analyses"></a>](#country-specific-analyses-)
 - [Comparative Analyses (Countries) <a name="Comparative Analyses (Countries)"></a>](#comparative-analyses-countries-)
 - [Comparative Analyses (Cities or States) <a name="Comparative Analyses (Cities or States)"></a>](#comparative-analyses-cities-or-states-)
-- [Finding the Cuase: Carbon Dioxide Emission  <a name="Finding the Cuase: Carbon Dioxide Emission"></a>](#finding-the-cuase-carbon-dioxide-emission--)
+- [Finding the Cuase: Carbon Dioxide Emission <a name="Finding the Cuase: Carbon Dioxide Emission"></a>](#finding-the-cuase-carbon-dioxide-emission-)
 - [Conclusions](#conclusions)
 - [Citation <a name="Citation"></a>](#citation-)
 
@@ -147,11 +147,11 @@ The following two diagrams are showing eight cities in China and eight states in
 
 Generally speaking, both cities in China and States in the US have an increasing trend of average temperature from 1913 to 2013. We selected representative cities that located in different direction of each country (South, North, center, near the ocean, etc).
 
-## Finding the Cuase: Carbon Dioxide Emission  <a name="Finding the Cuase: Carbon Dioxide Emission"></a>
+## Finding the Cuase: Carbon Dioxide Emission <a name="Finding the Cuase: Carbon Dioxide Emission"></a>
 
 In this part, we would like to investigate the relationship between Carbon Dioxide Emission (CO<sub>2</sub>) and the effects of global warming.
 
-The following are diagrams for changes in annual temperatures and CO<sub>2</sub> emissions for Russia, the U.S., and China. We basically added the trends for CO<sub>2</sub> onto the plots for changes in annual temperatures in Country Specific Analyses <a name="Country Specific Analyses"></a>.
+The following are diagrams for changes in annual temperatures and CO<sub>2</sub> emissions for Russia, the U.S., and China. We basically added the trends for CO<sub>2</sub> onto the plots for changes in annual temperatures in Country Specific Analyses <a name="Country Specific Analyses"></a>. The green line in the plot represent annual changes in CO<sub>2</sub> emissions.
 
 <iframe src="Russia_co2.html" height="600px" width="100%"></iframe>
 

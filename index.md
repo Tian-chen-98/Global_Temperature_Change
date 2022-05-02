@@ -6,8 +6,9 @@
     - [Table of Contents](#table-of-contents)
     - [Introduction](#introduction)
     - [Global Map <a name="Global Map"></a>](#global-map-)
-    - [Comparative Changes (Countries) <a name="Comparative Changes (Countries)"></a>](#comparative-changes-countries-)
-    - [Comparative Changes (Cities or States) <a name="Comparative Changes (Cities or States)"></a>](#comparative-changes-cities-or-states-)
+    - [Country Specific Analyses](#country-specific-analyses)
+    - [Comparative Analyses (Countries) <a name="Comparative Changes (Countries)"></a>](#comparative-analyses-countries-)
+    - [Comparative Analyses (Cities or States) <a name="Comparative Changes (Cities or States)"></a>](#comparative-analyses-cities-or-states-)
     - [Conclusions](#conclusions)
     - [Citation](#citation)
 
@@ -41,37 +42,9 @@ On the contrary, Asia, Europe, and North America have various changes in average
 
 <iframe src="Vio.html" height="600px" width="100%"></iframe>
 
-### Comparative Changes (Countries) <a name="Comparative Changes (Countries)"></a>
+### Country Specific Analyses
 
-The following two plots are showing the Average temperature change in different months within cities of two different countries from year 1903~2003 (China & the U.S.).
-
-<img src="china_temp.jpg"/>
-
-<img src="us_temp.jpg">
-
-For average temperature in 1903 in China, from June to August, the average temperature are the highest amoung other months throughout the year, and January and December got the lowest average temperaturse.
-
-In 2003, the ranges of temperature in each months does not change too much and the average temperature raised a bit in July but not very much.
-
-For average temperature in 1903 in the US, June and July got the highest average temperature which ranges from 15 to 26 degree. January got the lowest average temperature around -10 to 20 degree. In year 2003, the average temperature in the US raised a bit but not significant.
-
-The following two plots are showing the average temperatures from year 1983 to 2013 in China and the U.S.
-
-<img src="china_temp_change.jpg">
-
-<img src="us_temp_change.jpg">
-
-The average temperature plots of two countries both have an increasing trend from year 1984 to 2013 and reaches their perspective maximum average temperature at 2013: around 15 degrees in China and 16.7 degress in the U.S.
-
-The following two boxplots are showing the average temperatures of the two countries (China and the U.S.) in forty years from 1963 to 2003.
-
-<img src="china_box_plot.jpg">
-
-<img src="us_boxplot.jpg">
-
-From the plots, it can be seen that changes are not significant.
-
-The following plot is shows the changes in monthly average temperature from 1983 to 2013 for Russia. The red line is the monthly average temperature. The blue line indicates the fluctuating temperature difference between the current and previous months in last year.
+The following plot shows the changes in monthly average temperature from 1983 to 2013 for Russia. The red line is the monthly average temperature. The blue line indicates the fluctuating temperature difference between the current and previous months in last year.
 
 <iframe src="Russia_1.html" height="600px" width="100%"></iframe>
 
@@ -137,7 +110,37 @@ From 1984 to 1990, the average temperature increases tremendously.
 
 From 2012 to 2013, the temperature has an obvious increases(2.2)
 
-### Comparative Changes (Cities or States) <a name="Comparative Changes (Cities or States)"></a>
+### Comparative Analyses (Countries) <a name="Comparative Changes (Countries)"></a>
+
+The following two plots are showing the Average temperature change in different months within cities of two different countries from year 1903~2003 (China & the U.S.).
+
+<img src="china_temp.jpg"/>
+
+<img src="us_temp.jpg">
+
+For average temperature in 1903 in China, from June to August, the average temperature are the highest amoung other months throughout the year, and January and December got the lowest average temperaturse.
+
+In 2003, the ranges of temperature in each months does not change too much and the average temperature raised a bit in July but not very much.
+
+For average temperature in 1903 in the US, June and July got the highest average temperature which ranges from 15 to 26 degree. January got the lowest average temperature around -10 to 20 degree. In year 2003, the average temperature in the US raised a bit but not significant.
+
+The following two plots are showing the average temperatures from year 1983 to 2013 in China and the U.S.
+
+<img src="china_temp_change.jpg">
+
+<img src="us_temp_change.jpg">
+
+The average temperature plots of two countries both have an increasing trend from year 1984 to 2013 and reaches their perspective maximum average temperature at 2013: around 15 degrees in China and 16.7 degress in the U.S.
+
+The following two boxplots are showing the average temperatures of the two countries (China and the U.S.) in forty years from 1963 to 2003.
+
+<img src="china_box_plot.jpg">
+
+<img src="us_boxplot.jpg">
+
+From the plots, it can be seen that changes are not significant.
+
+### Comparative Analyses (Cities or States) <a name="Comparative Changes (Cities or States)"></a>
 
 The following two diagrams are showing eight cities in China and eight states in the U.S. We selected eight representative cities/states based on their unique locations to each perspective country.
 

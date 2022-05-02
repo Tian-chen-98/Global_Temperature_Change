@@ -55,6 +55,8 @@ The following two boxplots are showing the average temperatures of the two count
 
 <img src="us_boxplot.jpg">
 
+### Comparative Changes (Cities or States) <a name="Comparative Changes (Cities or States)"></a>
+
 The following two diagrams are showing eight cities in China and eight states in the U.S. We selected eight representative cities/states based on their unique locations to each perspective country.
 
 <img src="china_8_cities.jpg">
@@ -62,5 +64,3 @@ The following two diagrams are showing eight cities in China and eight states in
 <img src="us_8_cities.jpg">
 
 Generally speaking, both cities in China and States in the US have an increasing trend of average temperature from 1913 to 2013. We selected representative cities that located in different direction of each country (South, North, center, near the ocean, etc) .
-
-### Comparative Changes (Cities or States) <a name="Comparative Changes (Cities or States)"></a>

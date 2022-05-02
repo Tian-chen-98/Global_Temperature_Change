@@ -32,7 +32,7 @@ As it shows, temperatures of each country increase annually; in some countries, 
 
 The following two plots are showing the Average temperature change in different months within cities of two different countries from year 1903~2003 (China & the U.S.).
 
-<iframe src="china_temp.jpg" style="border:none;"></iframe>
+<img src="china_temp.jpg" style="border:none;">
 
 <iframe src="us_temp.jpg" style="border:none;"></iframe>
 

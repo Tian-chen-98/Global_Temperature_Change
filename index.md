@@ -4,15 +4,15 @@
 
 - [Changes in Global Temperature](#changes-in-global-temperature)
     - [Table of Contents](#table-of-contents)
-    - [Introduction](#introduction)
+    - [Introduction <a name="Introduction"></a>](#introduction-)
     - [Global Map <a name="Global Map"></a>](#global-map-)
-    - [Country Specific Analyses](#country-specific-analyses)
-    - [Comparative Analyses (Countries) <a name="Comparative Changes (Countries)"></a>](#comparative-analyses-countries-)
-    - [Comparative Analyses (Cities or States) <a name="Comparative Changes (Cities or States)"></a>](#comparative-analyses-cities-or-states-)
+    - [Country Specific Analyses <a name="Country Specific Analyses"></a>](#country-specific-analyses-)
+    - [Comparative Analyses (Countries) <a name="Comparative Analyses (Countries)"></a>](#comparative-analyses-countries-)
+    - [Comparative Analyses (Cities or States) <a name="Comparative Analyses (Cities or States)"></a>](#comparative-analyses-cities-or-states-)
     - [Conclusions](#conclusions)
-    - [Citation](#citation)
+    - [Citation <a name="Citation"></a>](#citation-)
 
-### Introduction
+### Introduction <a name="Introduction"></a>
 
 This project is brought to you by Group V. This website hosts graphs and maps that visually represent the changes in global temperature from 1743 to 2013. We seek to demonstrate the extent of global warming and illustrate the seriousness of that problem.
 
@@ -42,7 +42,7 @@ On the contrary, Asia, Europe, and North America have various changes in average
 
 <iframe src="Vio.html" height="600px" width="100%"></iframe>
 
-### Country Specific Analyses
+### Country Specific Analyses <a name="Country Specific Analyses"></a>
 
 The following plot shows the changes in monthly average temperature from 1983 to 2013 for Russia. The red line is the monthly average temperature. The blue line indicates the fluctuating temperature difference between the current and previous months in last year.
 
@@ -110,7 +110,7 @@ From 1984 to 1990, the average temperature increases tremendously.
 
 From 2012 to 2013, the temperature has an obvious increases(2.2)
 
-### Comparative Analyses (Countries) <a name="Comparative Changes (Countries)"></a>
+### Comparative Analyses (Countries) <a name="Comparative Analyses (Countries)"></a>
 
 The following two plots are showing the Average temperature change in different months within cities of two different countries from year 1903~2003 (China & the U.S.).
 
@@ -140,7 +140,7 @@ The following two boxplots are showing the average temperatures of the two count
 
 From the plots, it can be seen that changes are not significant.
 
-### Comparative Analyses (Cities or States) <a name="Comparative Changes (Cities or States)"></a>
+### Comparative Analyses (Cities or States) <a name="Comparative Analyses (Cities or States)"></a>
 
 The following two diagrams are showing eight cities in China and eight states in the U.S. We selected eight representative cities/states based on their unique locations to each perspective country.
 
@@ -156,7 +156,7 @@ This project emphasizes the seriousness of global warming. Our plots clearly sho
 
 Nevertheless, we have not gone into the causes of global warming. We have tried to find a relationship between Carbon dioxide emission and global warming, but this relationship is especially difficult to be visible on a graph. Therefore, finding the most significant causes of global warming. will be a direction for further research.
 
-### Citation
+### Citation <a name="Citation"></a>
 
 Data used in this project are from Kaggle. Two Kaggle datasets have been used:
 

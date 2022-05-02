@@ -60,8 +60,6 @@ And there are obvious differences in the following dates compared to the same mo
 1984-12-01
 1998-04-01
 2009-02-01
-
-
 2007-01-01
 1995-02-01
 2003-12-01

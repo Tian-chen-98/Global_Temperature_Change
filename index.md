@@ -32,9 +32,9 @@ As it shows, temperatures of each country increase annually; in some countries, 
 
 The following two plots are showing the Average temperature change in different months within cities of two different countries from year 1903~2003 (China & the U.S.).
 
-<img src="china_temp.jpg" style="border:none;">
+<img src="china_temp.jpg" style="border:none;"/>
 
-<iframe src="us_temp.jpg" style="border:none;"></iframe>
+<img src="us_temp.jpg" style="border:none;">
 
 For average temperature in 1903 in China, from June to August, the average temperature are the highest amoung other months throughout the year, and January and December got the lowest average temperaturse.
 
@@ -44,23 +44,23 @@ For average temperature in 1903 in the US, June and July got the highest average
 
 The following two plots are showing the average temperatures from year 1983 to 2013 in China and the U.S.
 
-<iframe src="china_temp_change.jpg" style="border:none;"></iframe>
+<img src="china_temp_change.jpg" style="border:none;">
 
-<iframe src="us_temp_change.jpg" style="border:none;"></iframe>
+<img src="us_temp_change.jpg" style="border:none;">
 
 The average temperature plots of two countries both have an increasing trend from year 1984 to 2013 and reaches their perspective maximum average temperature at 2013: around 15 degrees in China and 16.7 degress in the U.S.
 
 The following two boxplots are showing the average temperatures of the two countries (China and the U.S.) in forty years from 1963 to 2003. Changes are not significant.
 
-<iframe src="china_box_plot.jpg" style="border:none;"></iframe>
+<img src="china_box_plot.jpg" style="border:none;">
 
-<iframe src="us_boxplot.jpg" style="border:none;"></iframe>
+<img src="us_boxplot.jpg" style="border:none;">
 
 The following two diagrams are showing eight cities in China and eight states in the U.S. We selected eight representative cities/states based on their unique locations to each perspective country.
 
-<iframe src="china_8_cities.jpg" style="border:none;"></iframe>
+<img src="china_8_cities.jpg" style="border:none;">
 
-<iframe src="us_8_cities.jpg" style="border:none;"></iframe>
+<img src="us_8_cities.jpg" style="border:none;">
 
 Generally speaking, both cities in China and States in the US have an increasing trend of average temperature from 1913 to 2013. We selected representative cities that located in different direction of each country (South, North, center, near the ocean, etc) .
 

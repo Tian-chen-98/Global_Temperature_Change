@@ -1,13 +1,12 @@
-### Table of Contents
-
-- [Changes in Global Temperature](#changes-in-global-temperature)
-  - [Global Map <a name="Global Map"></a>](#global-map-)
-  - [Comparative Changes (Countries) <a name="Comparative Changes (Countries)"></a>](#comparative-changes-countries-)
-  - [Comparative Changes (Cities or States) <a name="Comparative Changes (Cities or States)"></a>](#comparative-changes-cities-or-states-)
-
-## Changes in Global Temperature
+# Changes in Global Temperature
 
 This project is brought to you by Group V. This website hosts graphs and maps that visually represent the changes in global temperature from 1743 to 2013. We seek to demonstrate the extent of global warming and illustrate the seriousness of that problem.
+
+### Table of Contents
+
+    - [Global Map <a name="Global Map"></a>](#global-map-)
+    - [Comparative Changes (Countries) <a name="Comparative Changes (Countries)"></a>](#comparative-changes-countries-)
+    - [Comparative Changes (Cities or States) <a name="Comparative Changes (Cities or States)"></a>](#comparative-changes-cities-or-states-)
 
 ### Global Map <a name="Global Map"></a>
 

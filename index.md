@@ -24,19 +24,19 @@ Therefore, we aim to analyze countries and cities/states in Asia, Europe, and No
 
 ## Global Map <a name="Global Map"></a>
 
-We plotted two global maps that describe the changes in temperatures of all countries in Celcius unit.
+We plotted two global maps (one interactive map, one GIF map) that describe the changes in temperatures of all countries in Celcius unit.
+
+Below is an interactive map that shows the differences in average temperatures of two period: 1743 to 1975 and 1975 to 2013. We choose 1975 to be the threshhold because the idea of global warming was first coined in 1975. Temperatures are in Celcius unit.
+
+The hover on the map shows the country name and the change in temperatures; The pop-up window that will open if a country is clicked on shows the precise change in temperatures. The legend on the bottom right corresponds with the extent of temperature changes in each country.
 
 <iframe src="climate_change_map.html" height="600px" width="100%"></iframe>
 
-Above is an interactive map that plots the differences in average temperatures of two period: 1743 to 1975 and 1975 to 2013.
+As this map above shows, average global temperatures after 1975 are much higher in all countries than the average temperatures before 1975.
 
-We choose 1975 to be the threshhold because the idea of global warming was first coined in 1975.
-
-As the map above shows, average global temperatures after 1975 are much higher in all countries than the average temperatures before 1975.
+The GIF below animatedly shows the changes in average temperatures. The legend in the bottom represents the differences of average temperature in one year compared to that of last year.
 
 <iframe src="gganim.gif" height="600px" width="90%"></iframe>
-
-The GIF above animatedly shows the changes in average temperatures. The legend in the bottom represents the differences of average temperature in one year compared to that of last year.
 
 As it shows, temperatures of each country increase annually; in some countries, such as Canada, the extent of increasing temperatures are especially significant.
 

@@ -9,7 +9,7 @@
 - [Comparative Analyses (Cities or States) <a name="Comparative Analyses (Cities or States)"></a>](#comparative-analyses-cities-or-states-)
 - [Finding the Cause: Carbon Dioxide Emission <a name="Finding the Cuase: Carbon Dioxide Emission"></a>](#finding-the-cause-carbon-dioxide-emission-)
 - [Conclusions](#conclusions)
-- [Link To Code](#link-to-code)
+- [Link To Code And Video Presentation](#link-to-code-and-video-presentation)
 - [Citation <a name="Citation"></a>](#citation-)
 
 ## Introduction <a name="Introduction"></a>
@@ -170,9 +170,11 @@ This project emphasizes the seriousness of global warming. Our plots clearly sho
 
 Nevertheless, we have not gone into the causes of global warming. We have tried to find a relationship between Carbon dioxide emission and global warming, but this relationship is especially difficult to be visible on a graph. Therefore, finding the most significant causes of global warming. will be a direction for further research.
 
-## Link To Code
+## Link To Code And Video Presentation
 
 All codes for this project can be accessed [here](https://github.com/QMSS-G5063-2022/Group_V_Global_Temperature).
+
+The video presentation can be accessed [here](https://drive.google.com/file/d/1sXNgBwQ1h1HJx9F3blZFNpEcJhMqtAjs/view?usp=sharing). Note that colors of some plots have recently been changed, but the contents of this project have stayed exactly the same.
 
 ## Citation <a name="Citation"></a>
 
